@@ -1,4 +1,7 @@
 If (personOnInternet == true && readThis == true)
 {
- Successful = 1;
+ Successful++;
+}
+else{
+	Succesful--;
 }
